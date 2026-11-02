@@ -1,15 +1,18 @@
 <div align="center">
 
-# Hey, I'm Sarosh Qaiser 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1A,50:17104A,100:063B69&height=190&section=header&text=Sarosh%20Qaiser&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Agentic%20AI%20Developer&descAlignY=58&descSize=18" width="100%" alt="Sarosh Qaiser — AI Engineer" />
 
-### AI Engineer · Machine Learning · Agentic AI
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+that+understands+and+acts;Agentic+AI+%7C+RAG+%7C+LLM+Applications;Creator+of+NOVA+%E2%80%94+Your+AI+Companion" alt="Animated headline" />
+</a>
 
-I build practical AI systems that can **understand, remember, reason, and take action**.
+<p>
+  <a href="https://portfolio-nine-lac-0ap7k3hn4y.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/saroshqaiser/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:saroshqais1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nine-lac-0ap7k3hn4y.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Sarosh548-181717?style=for-the-badge&logo=github)](https://github.com/Sarosh548)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saroshqaiser/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saroshqais1@gmail.com)
+*Build · Automate · Innovate*
 
 </div>
 
@@ -19,31 +22,35 @@ I build practical AI systems that can **understand, remember, reason, and take a
 
 I'm an AI Engineer based in Lahore, Pakistan, with a **BS in Artificial Intelligence** from the University of Management and Technology (UMT).
 
-My primary focus is building end-to-end AI products, especially intelligent agents, conversational systems, and retrieval-augmented applications.
+I build practical AI applications, with a focus on intelligent agents, conversational systems, retrieval-augmented generation, and automation.
 
-- 🚀 Currently building **NOVA**, a JARVIS-inspired personal AI companion.
-- 🧠 Interested in agentic AI, LangGraph, RAG, LLM applications, and applied machine learning.
-- 🎙️ Exploring natural voice experiences, persistent memory, and tool-using AI agents.
-- 🛠️ Enjoy working across backend, frontend, data, and AI infrastructure.
-- 🎯 Open to AI Engineer and Machine Learning Engineer opportunities.
+- 🚀 Building **NOVA**, a JARVIS-inspired personal AI companion.
+- 🧠 Interested in Agentic AI, LLMs, RAG, LangGraph, and applied Machine Learning.
+- 🎙️ Exploring voice-enabled assistants, persistent memory, and reliable tool use.
+- 🎯 Open to **AI Engineer** and **Machine Learning Engineer** opportunities.
 
-## 🌟 Featured Project
+## 🚀 Featured Project
 
-### NOVA — AI Personal Assistant
+<div align="center">
 
-A personal AI companion designed to go beyond ordinary chatbot conversations.
+### NOVA — Your AI Personal Assistant
 
-**What I'm building:**
+**A JARVIS-inspired AI companion designed to understand, remember, reason, and take action.**
+
+</div>
+
 - Natural text and real-time voice conversations.
 - Persistent semantic memory across interactions.
 - Agent workflows and tool orchestration with LangGraph.
 - Web research, task, email, and calendar integrations.
-- Permission-aware actions with user approval for consequential operations.
-- Verification and activity tracking to make actions more reliable.
+- Approval-first handling for consequential actions.
+- Verification and activity tracking for reliable execution.
 
 **Core stack:** Python · FastAPI · React · PostgreSQL · pgvector · LangGraph · LiveKit · RAG
 
-[![Explore NOVA](https://img.shields.io/badge/Explore_NOVA-Repository-2ea44f?style=for-the-badge&logo=github)](https://github.com/Sarosh548/NOVA-AI-Personal-Assistant)
+<div align="center">
+  <a href="https://github.com/Sarosh548/NOVA-AI-Personal-Assistant"><img src="https://img.shields.io/badge/Explore_NOVA-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore NOVA repository" /></a>
+</div>
 
 ## 🧰 Tech Stack
 
@@ -51,18 +58,17 @@ A personal AI companion designed to go beyond ordinary chatbot conversations.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-**AI & Engineering:** LLM applications · RAG · LangGraph · AI agents · Semantic search · Vector databases · Machine Learning · Deep Learning · REST APIs
+**AI & Engineering:** LLM Applications · Agentic AI · RAG · Semantic Search · Vector Databases · Machine Learning · Deep Learning · REST APIs
 
 ## 📌 More Projects
 
@@ -74,22 +80,22 @@ A personal AI companion designed to go beyond ordinary chatbot conversations.
 ## 🎓 Education
 
 **BS Artificial Intelligence**  
-University of Management and Technology (UMT) · Lahore  
+University of Management and Technology (UMT), Lahore  
 September 2019 – May 2024
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with people working on AI products, machine learning, and intelligent automation.
-
-- 🌐 Portfolio: [portfolio-nine-lac-0ap7k3hn4y.vercel.app](https://portfolio-nine-lac-0ap7k3hn4y.vercel.app/)
-- 💻 GitHub: [@Sarosh548](https://github.com/Sarosh548)
-- 🔗 LinkedIn: [linkedin.com/in/saroshqaiser](https://www.linkedin.com/in/saroshqaiser/)
-- 📧 Email: [saroshqais1@gmail.com](mailto:saroshqais1@gmail.com)
-
----
-
 <div align="center">
 
-*Building useful AI, one thoughtful system at a time.*
+<a href="https://github.com/Sarosh548"><img src="https://img.shields.io/badge/GitHub-Sarosh548-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/saroshqaiser/"><img src="https://img.shields.io/badge/LinkedIn-Sarosh_Qaiser-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://portfolio-nine-lac-0ap7k3hn4y.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-6C5CE7?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
+<a href="mailto:saroshqais1@gmail.com"><img src="https://img.shields.io/badge/Email-saroshqais1-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
 
+**CODE · INNOVATE · INSPIRE**
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:063B69,50:17104A,100:080B1A&height=100&section=footer" width="100%" alt="" />
 </div>
