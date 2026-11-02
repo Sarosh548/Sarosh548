@@ -8,6 +8,7 @@ I build practical AI systems that can **understand, remember, reason, and take a
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nine-lac-0ap7k3hn4y.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sarosh548-181717?style=for-the-badge&logo=github)](https://github.com/Sarosh548)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saroshqaiser/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saroshqais1@gmail.com)
 
 </div>
@@ -82,6 +83,7 @@ I'm always interested in connecting with people working on AI products, machine 
 
 - 🌐 Portfolio: [portfolio-nine-lac-0ap7k3hn4y.vercel.app](https://portfolio-nine-lac-0ap7k3hn4y.vercel.app/)
 - 💻 GitHub: [@Sarosh548](https://github.com/Sarosh548)
+- 🔗 LinkedIn: [linkedin.com/in/saroshqaiser](https://www.linkedin.com/in/saroshqaiser/)
 - 📧 Email: [saroshqais1@gmail.com](mailto:saroshqais1@gmail.com)
 
 ---
